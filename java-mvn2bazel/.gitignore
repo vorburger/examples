@@ -1,0 +1,4 @@
+# in this example (only), the BUILD & WORKSPACE
+# are generated, so should not be under source control
+BUILD
+WORKSPACE
